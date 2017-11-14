@@ -1,4 +1,4 @@
-package cn.itcast.goods.user.domain;
+﻿package cn.itcast.goods.user.domain;
 
 /*
  /**
@@ -34,11 +34,7 @@ public class User {
 		return loginname;
 	}
 	public void setLoginname(String loginname) {
-		this.loginname = loginname;
-	}
-	public String getLoginpass() {
-		return loginpass;
-	}
+		this.los	}
 	public void setLoginpass(String loginpass) {
 		this.loginpass = loginpass;
 	}
